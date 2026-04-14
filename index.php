@@ -19,7 +19,7 @@
     </style>
 </head>
 <body>
-    <h1>📝 Todo на PHP + MySQL+тест++</h1>
+    <h1>📝 Todo на PHP + MySQL+тест++++</h1>
     <div class="input-group">
         <input type="text" id="taskInput" placeholder="Новая задача..." autofocus>
         <button onclick="addTask()">Добавить</button>
